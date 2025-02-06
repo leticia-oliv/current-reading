@@ -8,4 +8,4 @@ Este repositório é parte da minha série Leitura Atual, onde compartilho meus 
 🚀 Projetos pessoais aplicando os conceitos do livro.
 Se você também está estudando o livro ou quer revisar conceitos básicos de ciência de dados, sinta-se à vontade para explorar o conteúdo! 💡
 
-🔗 Acompanhe minha jornada: [https://dev.to/leticiaoliv]
+🔗 Acompanhe minha jornada: https://dev.to/leticiaoliv
