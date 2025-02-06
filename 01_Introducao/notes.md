@@ -37,6 +37,7 @@ A partir disso, ele propõe desafios práticos, nos fazendo pensar como verdadei
 E para isso, já começamos a implementar algumas funções em Python! Construímos um dicionário para armazenar os usuários (`user_id` → `user_name`) e um conjunto de tuplas para representar as conexões de amizade. Além disso, criamos diagramas para visualizar a rede e aplicamos conceitos essenciais de programação, como **dicionários, tuplas, bibliotecas, loops e funções**.
 
 
+
 ## Conclusão
 
 Foi só o primeiro capítulo, e já trabalhamos com tantas funcionalidades sem nem ter uma formação na área — como o próprio Joel brinca, "culpem o RH". O próximo capítulo será um **Curso Intensivo de Python**, e estou curiosa para ver como ele irá apresentar os fundamentos da linguagem dentro dessa narrativa interativa (*spoiler da Letícia do futuro: ele consegue fazer isso muito bem!*).
